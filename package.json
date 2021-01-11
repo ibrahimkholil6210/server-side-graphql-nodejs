@@ -23,7 +23,7 @@
     "react-spinners": "^0.6.1"
   },
   "scripts": {
-    "server": "node api/src/server.js",
+    "server": "nodemon api/src/server.js",
     "app": "parcel client/index.html --out-dir client/dist",
     "test-server": "jest api/tests"
   },

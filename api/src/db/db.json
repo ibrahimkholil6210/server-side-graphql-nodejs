@@ -1,7 +1,37 @@
 {
   "user": {
     "id": "jBWMVGjm50l6LGwepDoty",
-    "username": "frontendmaster"
+    "username": "frontendmaster",
+    "pets": []
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "6454654656",
+      "name": "Bullet",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2",
+      "createdAt": "6454654656",
+      "name": "Bob",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "3",
+      "createdAt": "6454654656",
+      "name": "Dyral",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Z6pwiUcFB3hPkSUEfSOwL",
+      "createdAt": 1610301464627,
+      "name": "Cutie Pie",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
